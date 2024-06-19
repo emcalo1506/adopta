@@ -1,0 +1,38 @@
+.header {
+
+    padding: 10px 0;
+  }
+  
+  .top-nav {
+    padding: 0 20px;
+  }
+  
+  .logo {
+    height: 100px; /* Aumentar el tamaño del logo */
+  }
+  
+  .nav-links .nav-link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .nav-links .btn-link {
+    text-decoration: none;
+  }
+
+/* Custom class for padding */
+.btn-padding-left {
+  padding-left: 1.5rem; /* Adjust the value as needed */
+}
+
+.margin-left {
+  margin-left: 1rem;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-red:hover {
+  color: darkred;
+}

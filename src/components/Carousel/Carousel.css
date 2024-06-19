@@ -1,0 +1,40 @@
+.carousel-wrapper {
+  background: rgba(193, 212, 247, 0.3); 
+  padding-right: 10%;
+  padding-left: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+
+}
+
+.carousel-title {
+  color: #2C539B; /* Color del título */
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.carousel-image {
+  max-height: 400px; /* Ajusta la altura de la imagen según tu preferencia */
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.custom-caption {
+  background: rgba(0, 0, 0, 0.3); /* Fondo semi-transparente para el texto */
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.custom-caption h3,
+.custom-caption p {
+  color: white; /* Texto en color blanco */
+}
+
+.custom-caption .btn {
+  margin-top: 10px;
+  background-color: #007bff; /* Color del botón */
+  border: none;
+}

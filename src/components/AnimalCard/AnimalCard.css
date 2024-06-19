@@ -1,0 +1,16 @@
+
+
+.card {
+  transition: transform 0.2s;
+  text-align: center;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.custom-card-title {
+  background-color: #f8f9fa; /* Elige el color de fondo que desees */
+  padding: 10px;
+  border-radius: 5px;
+}

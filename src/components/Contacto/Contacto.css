@@ -1,0 +1,14 @@
+.contact-info-container {
+  background: rgba(193, 212, 247, 0.3);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info-container h2 {
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+}
+
+.contact-info-container .list-group-item {
+  font-size: 1.25rem;
+}

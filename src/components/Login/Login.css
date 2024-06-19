@@ -1,0 +1,42 @@
+/* Login.css */
+.login-container {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center; /* Center the form horizontally */
+    align-items: center; /* Center the form vertically if desired */
+    flex-direction: column;
+}
+
+login-form {
+    width: 50%; /* Make the form half the size */
+}
+
+.login-form-group {
+    margin-bottom: 1.5rem;
+    text-align: center; /* Center the text */
+}
+
+.login-form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.login-form-group .login-form-control {
+    padding: 0.75rem;
+    width: 50%; /* Make the input fields smaller */
+    margin: 0 auto; /* Center the input fields within the form group */
+}
+
+.d-grid {
+    gap: 1rem;
+}
+
+.btn-primary, .btn-secondary {
+    padding: 0.75rem 1.25rem;
+    width: 50%; /* Make the buttons smaller */
+    margin: 0 auto; /* Center the buttons within the form group */
+}
+
+.login-form-group.d-grid {
+    margin-bottom: 3rem; /* Add extra margin at the bottom to separate from the footer */
+}

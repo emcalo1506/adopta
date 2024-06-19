@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/adoptaapp/static/css/main.e8a687c4.css",
+    "main.js": "/adoptaapp/static/js/main.f08add1b.js",
+    "static/media/logmio.png": "/adoptaapp/static/media/logmio.720fdda54c46c37adcb8.png",
+    "static/media/gato1.jpeg": "/adoptaapp/static/media/gato1.95558d95bd6eaba67326.jpeg",
+    "static/media/perro1.webp": "/adoptaapp/static/media/perro1.7f0959340441d8714018.webp",
+    "static/media/perro2.jpg": "/adoptaapp/static/media/perro2.e87a38c27b701ed855be.jpg",
+    "static/media/perro3.jpg": "/adoptaapp/static/media/perro3.45dd44de3e820583a573.jpg",
+    "index.html": "/adoptaapp/index.html",
+    "main.e8a687c4.css.map": "/adoptaapp/static/css/main.e8a687c4.css.map",
+    "main.f08add1b.js.map": "/adoptaapp/static/js/main.f08add1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8a687c4.css",
+    "static/js/main.f08add1b.js"
+  ]
+}
