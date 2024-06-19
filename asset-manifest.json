@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ADOPTA/static/css/main.07847f2f.css",
-    "main.js": "/ADOPTA/static/js/main.6775fd64.js",
-    "static/media/logmio.png": "/ADOPTA/static/media/logmio.cffecd3229ece60fb37c.png",
-    "static/media/gato1.jpeg": "/ADOPTA/static/media/gato1.95558d95bd6eaba67326.jpeg",
-    "static/media/perro1.webp": "/ADOPTA/static/media/perro1.7f0959340441d8714018.webp",
-    "static/media/perro2.jpg": "/ADOPTA/static/media/perro2.e87a38c27b701ed855be.jpg",
-    "index.html": "/ADOPTA/index.html",
-    "main.07847f2f.css.map": "/ADOPTA/static/css/main.07847f2f.css.map",
-    "main.6775fd64.js.map": "/ADOPTA/static/js/main.6775fd64.js.map"
+    "main.css": "/adopta/static/css/main.07847f2f.css",
+    "main.js": "/adopta/static/js/main.a3085b83.js",
+    "static/media/logmio.png": "/adopta/static/media/logmio.cffecd3229ece60fb37c.png",
+    "static/media/gato1.jpeg": "/adopta/static/media/gato1.95558d95bd6eaba67326.jpeg",
+    "static/media/perro1.webp": "/adopta/static/media/perro1.7f0959340441d8714018.webp",
+    "static/media/perro2.jpg": "/adopta/static/media/perro2.e87a38c27b701ed855be.jpg",
+    "index.html": "/adopta/index.html",
+    "main.07847f2f.css.map": "/adopta/static/css/main.07847f2f.css.map",
+    "main.a3085b83.js.map": "/adopta/static/js/main.a3085b83.js.map"
   },
   "entrypoints": [
     "static/css/main.07847f2f.css",
-    "static/js/main.6775fd64.js"
+    "static/js/main.a3085b83.js"
   ]
 }
