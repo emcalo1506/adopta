@@ -18,7 +18,7 @@ function SearchBar() {
         <div className="row w-100">
           <div className="col-md-6">
             <div className="text-container">
-              <h1>Encuentra tu Compañero Ideal</h1>
+              <h1 className="custom-title">Encuentra tu Compañero Ideal</h1>
               <p>Explora nuestras opciones con filtros avanzados y descubre a tu perfecto compañero de cuatro patas. 
               Nuestra plataforma te permite buscar por tipo, raza, edad y características específicas para asegurarte de que encuentres al amigo ideal que complemente tu estilo de vida.</p>
             </div>

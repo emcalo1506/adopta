@@ -7,7 +7,12 @@
   text-align: center;
 
 }
-
+.custom-title {
+  color: #2C539B; /* Color del título */
+  font-size: 1.5rem;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
 .text-container {
   flex: 1;
   padding: 20px;
